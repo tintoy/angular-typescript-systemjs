@@ -1,3 +1,4 @@
+// It's worth pointing out that jspm creates pretty much everything you see here for you when you run jspm init.
 System.config({
   baseURL: "/dr3",
   defaultJSExtensions: true,
