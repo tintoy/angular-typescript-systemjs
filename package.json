@@ -1,0 +1,23 @@
+{
+  "name": "dr3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "tin toy <tintoy@tintoy.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "jspm": "^0.16.2"
+  },
+  "jspm": {
+    "directories": {},
+    "dependencies": {
+      "angular": "github:angular/bower-angular@^1.4.5",
+      "typescript": "npm:typescript@^1.5.3"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.8.22",
+      "babel-runtime": "npm:babel-runtime@^5.8.20",
+      "core-js": "npm:core-js@^1.1.0"
+    }
+  }
+}

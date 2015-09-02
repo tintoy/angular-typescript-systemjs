@@ -1,0 +1,3 @@
+# Stuff for git to ignore
+jspm_packages/
+node_modules/
